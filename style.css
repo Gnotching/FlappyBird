@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+#board{
+    background-image: url('./background.png');
+    margin: auto;
+    display: block;
+}
